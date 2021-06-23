@@ -1,0 +1,25 @@
+{
+  "name": "libraryoperationsmath",
+  "version": "1.0.0",
+  "description": "Basic proyect math to learn how create npm library and upload to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uahm93/libraryOperationsMath.git"
+  },
+  "keywords": [
+    "math",
+    "adition",
+    "div",
+    "multi"
+  ],
+  "author": "Ulises H. Mendoza <uahm93@gmail.com> (https://github.com/uahm93/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uahm93/libraryOperationsMath/issues"
+  },
+  "homepage": "https://github.com/uahm93/libraryOperationsMath#readme"
+}
