@@ -1,5 +1,5 @@
 {
-  "name": "libraryoperationsmath",
+  "name": "basicsoperationsmath",
   "version": "1.0.0",
   "description": "Basic proyect math to learn how create npm library and upload to npm",
   "main": "index.js",
